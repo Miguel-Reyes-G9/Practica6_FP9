@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int main() { 
   short enteroNumero1 = 115;
   signed int enteroNumero2 = 55;
   unsigned long enteroNumero3 = 789;
