@@ -4,7 +4,7 @@ int main() {
   signed int enteroNumero2 = 55;
   unsigned long enteroNumero3 = 789;
   char caracterA = 65;
-  char caracterB = ‘B’;
+  char caracterB = 'B';
   
   float puntoFlotanteNumero1 = 89.8;
   
