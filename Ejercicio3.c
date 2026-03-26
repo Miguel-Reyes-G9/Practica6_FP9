@@ -9,7 +9,7 @@ int main() {
   entero = 14;
   flotante = 3.5f;
   doble = 6.8e10;
-  caracter = ‘A’;
+  caracter = 'A';
   //Funciones de salida de datos en pantalla
   printf("La variable entera tiene valor: %i \n", entero);
   printf("La variable flotante tiene valor: %f \n", flotante);
